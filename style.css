@@ -1,0 +1,13 @@
+body{
+    font-family: 'Stint Ultra Condensed';
+    background-image: url("bg_Img.png");
+    color: aliceblue;
+    font-size: 35px;
+
+}
+h3,button{
+    font-size: 35px !important;
+}
+h2{
+    font-size: 50px !important;
+}
